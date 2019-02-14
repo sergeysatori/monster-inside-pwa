@@ -1,0 +1,12 @@
+# Blender MTL File: 'escarabajo.model.texture2.8.blend'
+# Material Count: 1
+
+newmtl escarabajo
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.012548 0.094906 0.176208
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
