@@ -9,7 +9,7 @@ export default class Home extends Component {
 		return (
 			<div class={`${style.home} page`}>
 
-				<iframe style={{height: '100%', width:  '100%'}} src={'/embed/avatar-demo/webgl_loader_obj_mtl.html'}></iframe>
+				<iframe style={{height: '100%', width:  '100%'}} src={'embed/avatar-demo/webgl_loader_obj_mtl.html'}></iframe>
 
 			</div>
 		);
