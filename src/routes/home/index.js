@@ -10,7 +10,7 @@ export default class Home extends Component {
 		return (
 			<div class={`${style.home} page`}>
 
-					<Iframe url='embed/avatar-demo/webgl_loader_obj_mtl.html'
+					<Iframe url='/embed/avatar-demo/webgl_loader_obj_mtl.html'
 	        width="100%"
 	        height="100%"
 	        id="avatarEmbed"
